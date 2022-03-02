@@ -1,26 +1,21 @@
-[7052:17292:0302/173225.078:WARNING:chrome_command_line_pref_store.cc(123)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[7052:17292:0302/173225.092:WARNING:chrome_command_line_pref_store.cc(123)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[7052:17292:0302/173225.290:WARNING:chrome_command_line_pref_store.cc(123)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
-[7052:10620:0302/173227.662:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
-[7052:10620:0302/173227.663:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
-[7052:10620:0302/173227.663:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
-[7052:17292:0302/173227.666:ERROR:device_event_log_impl.cc(214)] [17:32:27.666] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[7052:17292:0302/173227.667:ERROR:device_event_log_impl.cc(214)] [17:32:27.667] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[7052:10620:0302/173227.710:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
-[7052:17292:0302/173240.540:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
-[7052:17292:0302/173243.236:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
-[7052:17292:0302/173243.458:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
-[7052:17292:0302/173246.908:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.001:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.132:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.234:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.304:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.449:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.551:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.680:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.810:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173247.911:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
-[7052:17292:0302/173248.625:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
-[7052:17292:0302/173250.040:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
-[7052:17292:0302/173250.216:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
-[7052:17292:0302/173254.916:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[1232:1584:0302/180302.533:WARNING:chrome_command_line_pref_store.cc(123)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[1232:1584:0302/180302.536:WARNING:chrome_command_line_pref_store.cc(123)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[1232:1584:0302/180302.579:WARNING:chrome_command_line_pref_store.cc(123)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[1232:1584:0302/180303.976:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1232:1584:0302/180306.613:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180306.695:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180306.813:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180306.893:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180306.898:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1232:1584:0302/180307.012:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.073:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1232:1584:0302/180307.113:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.207:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.265:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.324:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.414:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.547:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.603:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180307.680:INFO:CONSOLE(1437)] "[object HTMLAnchorElement]", source:  (1437)
+[1232:1584:0302/180308.528:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[1232:1584:0302/180309.880:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

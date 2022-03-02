@@ -1,2 +1,3 @@
-2022/03/02-17:32:25.342 5c04 Creating DB C:\Users\saurabh.kumar\Provar\case11953\.provarCaches\.chromeProfiles\profile0\Default\Sync Data\LevelDB since it was missing.
-2022/03/02-17:32:25.368 5c04 Reusing MANIFEST C:\Users\saurabh.kumar\Provar\case11953\.provarCaches\.chromeProfiles\profile0\Default\Sync Data\LevelDB/MANIFEST-000001
+2022/03/02-18:03:02.597 19d4 Reusing MANIFEST C:\Users\saurabh.kumar\Provar\case11953\.provarCaches\.chromeProfiles\profile0\Default\Sync Data\LevelDB/MANIFEST-000001
+2022/03/02-18:03:02.597 19d4 Recovering log #3
+2022/03/02-18:03:02.597 19d4 Reusing old log C:\Users\saurabh.kumar\Provar\case11953\.provarCaches\.chromeProfiles\profile0\Default\Sync Data\LevelDB/000003.log 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="case11953/tests" tests="1" failures="0" skipped="0" hostname="ibm-saurabhkumar" time="10.616" timestamp="Wed Mar 02 18:03:00 IST 2022">
+	<properties>
+		<property name="excludeCallableTestCases" value="false"/>
+		<property name="testEnvironment" value=""/>
+		<property name="pluginOutputLevel" value="WARNING"/>
+		<property name="projectPath" value=".."/>
+		<property name="salesforceMetadataCache" value="Reuse"/>
+		<property name="resultsPathDisposition" value="Increment"/>
+		<property name="testOutputLevel" value="INFO"/>
+		<property name="webBrowserType" value="Chrome"/>
+		<property name="resultsPath" value="../ANT/Results"/>
+		<property name="webBrowserConfiguration" value="Full Screen"/>
+		<property name="projectCachePath" value="C:\Users\saurabh.kumar\Provar\case11953\case11953\ANT\..\..\.provarCaches"/>
+	</properties>
+	<testcase classname="tests/AmazonChalao.testcase" name="AmazonChalao.testcase" time="9.445">
+	</testcase>
+</testsuite>

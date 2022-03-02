@@ -45,7 +45,9 @@
         <argument id="captureAfter">
           <value class="value" valueClass="string">false</value>
         </argument>
-        <argument id="uiTargetUrl"/>
+        <argument id="uiTargetUrl">
+          <value class="value" valueClass="string">http://www.amazon.in</value>
+        </argument>
       </arguments>
       <clauses>
         <clause name="substeps" testItemId="3">
