@@ -30,7 +30,7 @@
         <connection name="Amazon_conn">
           <summary/>
           <connectionUrls>
-            <connectionUrl secureStorageNodeId="1236702b-7975-4c1e-91d2-75510820c9ea" url="se:baseUrl=http://www.amazon.in"/>
+            <connectionUrl secureStorageNodeId="1236702b-7975-4c1e-91d2-75510820c9ea" url="se:baseUrl=https://www.amazon.in"/>
           </connectionUrls>
         </connection>
       </connections>
